@@ -6,7 +6,7 @@ from moviepy.editor import VideoFileClip
 import os
 import tempfile
 
-genai.configure(api_key="AIzaSyACOquWGAksL7NOITUSh6VtHqqheVjo-qY")
+genai.configure(api_key="your_api_key")
 
 
 def extract_text_from_pdf(pdf_file):
