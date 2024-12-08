@@ -30,10 +30,19 @@ This project uses advanced natural language processing (NLP) models to read, und
   - PyPDF2 (for PDF extraction)
 
 ## Installation
-Prerequisites
-- Python 3.8+
-- pip (Python package manager)
+- Prerequisites
+  - Python 3.8+
+  - pip (Python package manager)
 
-Steps
-- Clone the repository:
-  - 
+- Steps
+  - Clone the repository:
+    - https://github.com/VasuGadde0203/AI-Powered-Document-Analyzer.git
+  - Install the required dependencies
+    - pip install -r requrirements.txt
+  - Run the application
+    - streamlit run app.py
+ 
+## Contact
+- **Author:** Gadde Vasu Ramesh
+- **Email:** vasugadde0203@gmail.com
+- **GitHub:** VasuGadde0203
